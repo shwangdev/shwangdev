@@ -5,6 +5,7 @@
 
 ### My Social Media 💬
 - Email: wxjeacen@gmail.com
+- LinkedIn: https://www.linkedin.com/in/shawn-wang-520a5227/
 
 <a href="https://github.com/bettenW">
   <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=shwangdev&show_icons=truet&include_all_commits=True&hide=contribs" alt="Shawn's github stats" />
