@@ -7,14 +7,9 @@
 - Email: wxjeacen@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shawn-wang-520a5227/
 
-<a href="https://github.com/bettenW">
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=shwangdev&show_icons=truet&include_all_commits=True&hide=contribs" alt="Shawn's github stats" />
-</a>
+[![Shawn's Github Stats](https://github-readme-stats.vercel.app/api?username=shwangdev&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/shwangdev">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=shwangdev&layout=compact" />
-</a>
+
 <!--
 **shwangdev/shwangdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
